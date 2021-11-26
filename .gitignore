@@ -1,0 +1,6 @@
+# ignore everything
+/*
+# allow Assets and ProjectSettings
+![Aa]ssets/
+![Pp]roject[Ss]ettings/
+!.gitignore
